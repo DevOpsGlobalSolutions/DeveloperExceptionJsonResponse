@@ -3,15 +3,15 @@
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
     <PublishRepositoryUrl>true</PublishRepositoryUrl>
+    <PackageId>ClassLibDotNetStandard</PackageId>
     <PackageTags>aspnetcore</PackageTags>
     <AllowedOutputExtensionsInPackageBuildOutputFolder>$(AllowedOutputExtensionsInPackageBuildOutputFolder);.pdb</AllowedOutputExtensionsInPackageBuildOutputFolder>
     <EmbedUntrackedSources>true</EmbedUntrackedSources>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
-    <Authors>Ankit Vijay</Authors>
+    <Authors>Scott Spangler</Authors>
     <Description>Middleware extension that returns Exception as HTTP 500 error in the form of JSON response.</Description>
-    <PackageDescription>Middleware extension that returns Exception as HTTP 500 error in the form of JSON response.</PackageDescription>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
-    <ProjectUrl>https://github.com/DevOpsGlobalSolutions/DeveloperExceptionJsonResponse.git/</ProjectUrl>
+    <PackageProjectUrl>https://github.com/DevOpsGlobalSolutions/DeveloperExceptionJsonResponse.git/</PackageProjectUrl>
   </PropertyGroup>
 
   <ItemGroup>
