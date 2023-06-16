@@ -11,7 +11,7 @@
     <Description>Middleware extension that returns Exception as HTTP 500 error in the form of JSON response.</Description>
     <PackageDescription>Middleware extension that returns Exception as HTTP 500 error in the form of JSON response.</PackageDescription>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
-    <ProjectUrl>https://ankitvijay.github.io/DeveloperExceptionJsonResponse/</ProjectUrl>
+    <ProjectUrl>https://github.com/DevOpsGlobalSolutions/DeveloperExceptionJsonResponse.git/</ProjectUrl>
   </PropertyGroup>
 
   <ItemGroup>
