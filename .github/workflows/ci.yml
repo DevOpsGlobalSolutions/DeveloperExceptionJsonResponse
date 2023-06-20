@@ -5,9 +5,13 @@ on:
   workflow_dispatch:
     
   push:
-    branches: [ master ]
+    branches: 
+      - master
+      - release/*
   pull_request:
-    branches: [ master ]
+    branches:
+      - master
+      - release/*
 
 defaults:
   run:
