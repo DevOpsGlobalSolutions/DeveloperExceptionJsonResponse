@@ -3,7 +3,7 @@
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
     <PublishRepositoryUrl>true</PublishRepositoryUrl>
-    <PackageId>ClassLibDotNetStandard</PackageId>
+    <PackageId>Class-Lib-DotNet-Standard</PackageId>
     <PackageTags>aspnetcore</PackageTags>
     <AllowedOutputExtensionsInPackageBuildOutputFolder>$(AllowedOutputExtensionsInPackageBuildOutputFolder);.pdb</AllowedOutputExtensionsInPackageBuildOutputFolder>
     <EmbedUntrackedSources>true</EmbedUntrackedSources>
